@@ -2,7 +2,7 @@
 Group Roles
 Ludwig - Project Lead
 Murad - Project Member
-Jonathan Y - 
-Jonathan L -
-Cyrus -
-Gordon -
+Jonathan Y - Technical Member
+Jonathan L - Project Member
+Cyrus - Technical Member
+Gordon - Technical Lead
