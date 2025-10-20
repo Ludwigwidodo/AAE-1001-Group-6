@@ -5,10 +5,10 @@ Ludwig - Project Lead
 
 Murad - Project Member
 
-Jonathan Y - Technical Member
-
 Jonathan L - Project Member
+
+Gordon - Technical Lead
 
 Cyrus - Technical Member
 
-Gordon - Technical Lead
+Jonathan Y - Technical Member
