@@ -1,2 +1,7 @@
-# AAE-1001-Group-6
-6741
+# Welcome!
+Group Roles
+Ludwig - Project Lead
+Murad - Project Member
+Jonathan Y - 
+Jonathan L -
+Cyrus -
