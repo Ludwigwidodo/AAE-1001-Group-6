@@ -1,5 +1,6 @@
 # Welcome!
-Group Roles
+Group Roles:
+
 Ludwig - Project Lead
 
 Murad - Project Member
